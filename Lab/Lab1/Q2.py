@@ -11,4 +11,3 @@ for i in range (len(inputs)):
         pass
 print(upper_character)
 print(lower_character)
-    
